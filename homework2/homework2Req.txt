@@ -1,0 +1,29 @@
+Homework 2
+This purpose of this assignment is to make use of threads and develop data parallel and task parallel algorithms.
+
+You will identify how much speedup you can achieve using multiple processors with threads.  You will be using unixs for this assignment.  It is a shared machine which means that your program may not reach the maximum improvement as your processes are sharing the machine with others.  You should assume that you want to maximize the use of the machine.You will use the data found on Blackboard under Course Content. 
+
+When getting keywords from a text document there are several steps:
+
+Remove noise (such as "an" "was" "the")
+Normalization of concepts ("applications" --> "application" see 2013-03-05.txt)
+Lowercase
+Count frequency
+1. Develop the procedures to read in the text, split words by whitespace and/or symbols, lowercase, remove words from an external list, substitute words from an external list, count the words, keep only the top 10% of the most frequent concepts across all documents, and output that to a single summary file.
+
+2. Produce a serial version.
+
+3. Produce a data parallel version.
+
+4. Produce a task parallel version.
+
+5. Time the various applications and compare.
+
+A. (70%) Organize the programs that you created and the data that you have collected.  You will be graded on the successful implementation.  
+B. (20%) Be sure to document your code and data well.  You will also be graded on how well you can describe how it works.  The comments and documentation required here exceed the typical documentation that you would provide in your code to allow another programmer to modify it.  You need to show that you understand how it is working and why you make the choices that you did.
+C. (10%) You should include a document that describes your understanding of how well the solution scales and in what situations you can apply this to other problems.
+
+You should zip all files together, named by your ID.  You can submit as many times as you want, but only the last submission before the deadline will be graded.  It is due Wednesday 2/15 by midnight.  You can submit late until Thursday 2/16 by midnight with a 10% penalty.  No assignments will be accepted after Tuesday at midnight.  No assignments should be sent in email to the instructor or teaching assistant.  Especially given the size of the submission, give yourself enough time to submit before the deadline. 
+
+Do NOT send your submission in email!
+

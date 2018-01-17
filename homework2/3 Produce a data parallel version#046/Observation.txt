@@ -1,0 +1,8 @@
+The data parallel word count takes about 0.207 seconds in avg. 
+About 2 times faster than the serial word_count. 
+
+All the data has been copied to the memory by the main thread and then 
+data was divided between 4 thread. Some of the functions have been copied 
+multiple times with different names in order to to increase performance. 
+Since none of the thread have to waint to another to release a lock they 
+can do more work. Only one mutex have been used.

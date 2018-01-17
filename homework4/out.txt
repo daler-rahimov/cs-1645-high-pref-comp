@@ -1,0 +1,300 @@
+Initial Density: 0
+Final Density:   0
+
+Initial Density: 1
+Final Density:   0
+
+Initial Density: 2
+Final Density:   0
+
+Initial Density: 3
+Final Density:   0
+
+Initial Density: 4
+Final Density:   0
+
+Initial Density: 5
+Final Density:   0
+
+Initial Density: 6
+Final Density:   6
+
+Initial Density: 7
+Final Density:   5
+
+Initial Density: 8
+Final Density:   4
+
+Initial Density: 9
+Final Density:   35
+
+Initial Density: 10
+Final Density:   10
+
+Initial Density: 11
+Final Density:   8
+
+Initial Density: 12
+Final Density:   3
+
+Initial Density: 13
+Final Density:   3
+
+Initial Density: 14
+Final Density:   8
+
+Initial Density: 15
+Final Density:   3
+
+Initial Density: 16
+Final Density:   3
+
+Initial Density: 17
+Final Density:   7
+
+Initial Density: 18
+Final Density:   14
+
+Initial Density: 19
+Final Density:   14
+
+Initial Density: 20
+Final Density:   14
+
+Initial Density: 21
+Final Density:   14
+
+Initial Density: 22
+Final Density:   14
+
+Initial Density: 23
+Final Density:   14
+
+Initial Density: 24
+Final Density:   14
+
+Initial Density: 25
+Final Density:   12
+
+Initial Density: 26
+Final Density:   5
+
+Initial Density: 27
+Final Density:   9
+
+Initial Density: 28
+Final Density:   6
+
+Initial Density: 29
+Final Density:   0
+
+Initial Density: 30
+Final Density:   8
+
+Initial Density: 31
+Final Density:   24
+
+Initial Density: 32
+Final Density:   10
+
+Initial Density: 33
+Final Density:   10
+
+Initial Density: 34
+Final Density:   12
+
+Initial Density: 35
+Final Density:   7
+
+Initial Density: 36
+Final Density:   4
+
+Initial Density: 37
+Final Density:   4
+
+Initial Density: 38
+Final Density:   12
+
+Initial Density: 39
+Final Density:   7
+
+Initial Density: 40
+Final Density:   0
+
+Initial Density: 41
+Final Density:   11
+
+Initial Density: 42
+Final Density:   0
+
+Initial Density: 43
+Final Density:   0
+
+Initial Density: 44
+Final Density:   1
+
+Initial Density: 45
+Final Density:   6
+
+Initial Density: 46
+Final Density:   0
+
+Initial Density: 47
+Final Density:   5
+
+Initial Density: 48
+Final Density:   6
+
+Initial Density: 49
+Final Density:   7
+
+Initial Density: 50
+Final Density:   0
+
+Initial Density: 51
+Final Density:   8
+
+Initial Density: 52
+Final Density:   7
+
+Initial Density: 53
+Final Density:   7
+
+Initial Density: 54
+Final Density:   0
+
+Initial Density: 55
+Final Density:   0
+
+Initial Density: 56
+Final Density:   8
+
+Initial Density: 57
+Final Density:   7
+
+Initial Density: 58
+Final Density:   12
+
+Initial Density: 59
+Final Density:   4
+
+Initial Density: 60
+Final Density:   3
+
+Initial Density: 61
+Final Density:   4
+
+Initial Density: 62
+Final Density:   4
+
+Initial Density: 63
+Final Density:   0
+
+Initial Density: 64
+Final Density:   12
+
+Initial Density: 65
+Final Density:   6
+
+Initial Density: 66
+Final Density:   6
+
+Initial Density: 67
+Final Density:   0
+
+Initial Density: 68
+Final Density:   0
+
+Initial Density: 69
+Final Density:   0
+
+Initial Density: 70
+Final Density:   0
+
+Initial Density: 71
+Final Density:   2
+
+Initial Density: 72
+Final Density:   12
+
+Initial Density: 73
+Final Density:   12
+
+Initial Density: 74
+Final Density:   12
+
+Initial Density: 75
+Final Density:   12
+
+Initial Density: 76
+Final Density:   12
+
+Initial Density: 77
+Final Density:   12
+
+Initial Density: 78
+Final Density:   12
+
+Initial Density: 79
+Final Density:   12
+
+Initial Density: 80
+Final Density:   0
+
+Initial Density: 81
+Final Density:   0
+
+Initial Density: 82
+Final Density:   0
+
+Initial Density: 83
+Final Density:   0
+
+Initial Density: 84
+Final Density:   0
+
+Initial Density: 85
+Final Density:   0
+
+Initial Density: 86
+Final Density:   0
+
+Initial Density: 87
+Final Density:   0
+
+Initial Density: 88
+Final Density:   0
+
+Initial Density: 89
+Final Density:   0
+
+Initial Density: 90
+Final Density:   0
+
+Initial Density: 91
+Final Density:   0
+
+Initial Density: 92
+Final Density:   0
+
+Initial Density: 93
+Final Density:   0
+
+Initial Density: 94
+Final Density:   0
+
+Initial Density: 95
+Final Density:   0
+
+Initial Density: 96
+Final Density:   0
+
+Initial Density: 97
+Final Density:   0
+
+Initial Density: 98
+Final Density:   0
+
+Initial Density: 99
+Final Density:   0
+

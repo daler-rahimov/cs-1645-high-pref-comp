@@ -1,0 +1,3 @@
+The task parallel word count in avg took  0.398. By the time I was running it the system was
+overloaded so not exact time could be batter. Task parallel was slower than the data parallel 
+in this case. 

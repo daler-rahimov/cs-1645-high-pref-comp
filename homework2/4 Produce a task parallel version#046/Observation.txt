@@ -1,0 +1,2 @@
+The serial word count takes about 0.4253 seconds in avg.
+All the files in loaded in to the memory and then it is calculated.
